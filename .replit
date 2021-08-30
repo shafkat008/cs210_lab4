@@ -1,0 +1,3 @@
+language = "c++"
+
+run = "g++ complexity.cpp timer.cpp -o output; ./output"
